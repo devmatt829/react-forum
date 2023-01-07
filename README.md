@@ -44,7 +44,7 @@ Make sure you have these installed
 Clone the repository
 
 ```
-git clone "https://github.com/OlexG/nodejs-react-forum"
+git clone "https://github.com/devmatt829/react-forum"
 ```
 
 Make sure you are in the directory of your application.
